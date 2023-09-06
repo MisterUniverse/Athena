@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wv6sF5VLWP8vd8DCZk7Nu1fxz8JMKUQcKeQdBheAR8G8mAg/7OQd/bacn0W5Q6CGAlqBFumr0eoaVH/BeAq/1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C#\\Athena\\Athena\\Athena.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Des\\.nuget\\packages\\packetdotnet\\1.4.7\\packetdotnet.1.4.7.nupkg.sha512",
+    "C:\\Users\\Des\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
